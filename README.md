@@ -6,12 +6,12 @@ Welcome to the **Dictionary App**, a magical little tool that helps you discover
 
 ## 🌍 Live Demo
 
-🚀 [Try it Live!](#)  
+🚀 [Try it Live!](https://sarthdhakade963.github.io/Dictionary-App/)  
 
 ---
 
 ## 🧪 Sneak Peek
-![Dictionary App](#)
+![Dictionary App](screenshot.png)
 
 ---
 
